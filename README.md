@@ -18,7 +18,7 @@
 
 - :zap: In my free time,  I do coding and football.
 
-- :- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yaroslav-rechkalov-b55b8b247/)
+- :- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-EnVy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yaroslav-rechkalov-b55b8b247/)
   </div>
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rechkalov1&show_icons=true&theme=gruvbox)
