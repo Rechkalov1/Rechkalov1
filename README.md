@@ -47,7 +47,8 @@
 
 </div>
   </div>
-  <div align+"center">
+  <div align="center">
+  
   ### :fire: My Stats :
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rechkalov1&show_icons=true&theme=gruvbox)
