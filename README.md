@@ -14,11 +14,11 @@
 </div>
 
   </div>
-    ### :man_technologist: About Me :
+   
 <div align="center">
   
 
-
+  ### :man_technologist: About Me :
   - :telescope:  I am a junior full stack developer.
 
 - :seedling: Actively learning react.
@@ -27,6 +27,7 @@
 
 - :- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-EnVy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yaroslav-rechkalov-b55b8b247/)
 :</div>
+<div align="center">
 ### :hammer_and_wrench: Languages and Tools 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -45,6 +46,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-  
+  </div>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rechkalov1&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rechkalov1&show_icons=true&theme=gruvbox)
