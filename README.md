@@ -12,14 +12,15 @@
    <div align="center">
   <img src="https://www.turing.com/blog/wp-content/uploads/2022/02/programminng-languages-for-ai-scaled.jpg" width="600" height="300"/>
 </div>
-  - :telescope:  I am a junior full stack developer.
+
+  </div>
+    - :telescope:  I am a junior full stack developer.
 
 - :seedling: Actively learning react.
 
 - :zap: In my free time,  I do coding and football.
 
 - :- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-EnVy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yaroslav-rechkalov-b55b8b247/)
-  </div>
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rechkalov1&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rechkalov1&show_icons=true&theme=gruvbox)
