@@ -14,7 +14,11 @@
 </div>
 
   </div>
-<div align="center">- :telescope:  I am a junior full stack developer.
+<div align="center">
+  
+
+  ### :man_technologist: About Me :
+  - :telescope:  I am a junior full stack developer.
 
 - :seedling: Actively learning react.
 
