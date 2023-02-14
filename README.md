@@ -19,7 +19,7 @@
   
 
   ### :man_technologist: About Me :
-  - :telescope:  I am a junior full stack developer.
+  - :telescope:  I am a full stack developer.
 
 - :seedling: Actively learning react.
 
